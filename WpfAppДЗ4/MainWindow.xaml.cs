@@ -95,7 +95,7 @@ namespace WpfAppДЗ4
               // Слияние плиток и добавление нового элемента после движения
           }
 
-          // Добавьте аналогичные методы для MoveRight, MoveUp, MoveDown
+        
 
           private void AddRandomTile()
           {
