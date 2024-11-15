@@ -38,7 +38,7 @@ namespace WpfAppДЗ4
                   case Key.Left:
                       viewModel.MoveLeft();
                       break;
-                      // Добавьте аналогичные случаи для MoveRight, MoveUp, MoveDown
+                      
               }
           }
       }
